@@ -4,6 +4,6 @@
   "main": "index.json",
   "repository": "git@github.com:rocicorp/prettier-config.git",
   "dependencies": {
-    "prettier": "^3.0.3"
+    "prettier": "^3.5.3"
   }
 }
