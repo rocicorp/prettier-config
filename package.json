@@ -1,6 +1,6 @@
 {
   "name": "@rocicorp/prettier-config",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "index.json",
   "repository": "git@github.com:rocicorp/prettier-config.git",
   "dependencies": {
